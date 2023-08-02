@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @capceres
 - 👀 I’m interested in Design and Front
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning User Experience and Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
